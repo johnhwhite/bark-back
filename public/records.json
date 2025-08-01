@@ -1,0 +1,257 @@
+[
+  {
+    "id": "6fa484ea-8350-4f53-be7e-1eac68390838",
+    "createdAt": "2023-06-21T12:18:26.135Z",
+    "updatedAt": "2023-09-01T12:18:26.135Z",
+    "name": "Badger",
+    "bio": "",
+    "gender": "Male",
+    "birthdate": "2023-05-28T12:18:26.135Z",
+    "breed": "Mixed",
+    "needsAttention": false,
+    "images": [
+      {
+        "alt": "Badger",
+        "url": "https://johnhwhite.github.io/bark-back/images/Badger.png"
+      }
+    ]
+  },
+  {
+    "id": "0a1d5857-1504-469f-91db-106250e851bd",
+    "createdAt": "2022-11-24T12:18:26.138Z",
+    "updatedAt": "2022-12-12T12:18:26.138Z",
+    "name": "Bailey",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2022-09-13T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Bailey",
+        "url": "https://johnhwhite.github.io/bark-back/images/Bailey.png"
+      }
+    ]
+  },
+  {
+    "id": "cfd27077-d14b-4ca8-a8fd-a3e72778ea6c",
+    "createdAt": "2023-03-11T12:18:26.138Z",
+    "updatedAt": "2023-04-08T12:18:26.138Z",
+    "name": "Bear",
+    "bio": "",
+    "gender": "Male",
+    "birthdate": "2023-01-02T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": false,
+    "images": [
+      {
+        "alt": "Bear",
+        "url": "https://johnhwhite.github.io/bark-back/images/Bear.png"
+      }
+    ]
+  },
+  {
+    "id": "f96a4620-36ea-4659-802c-11b6c676e5a8",
+    "createdAt": "2022-09-10T12:18:26.138Z",
+    "updatedAt": "2022-10-16T12:18:26.138Z",
+    "name": "Bella",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2022-07-13T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Bella",
+        "url": "https://johnhwhite.github.io/bark-back/images/Bella.png"
+      }
+    ]
+  },
+  {
+    "id": "d515af9f-bab7-42ce-842c-c46dabcb78fa",
+    "createdAt": "2022-08-18T12:18:26.138Z",
+    "updatedAt": "2022-10-17T12:18:26.138Z",
+    "name": "Buddy",
+    "bio": "",
+    "gender": "Male",
+    "birthdate": "2022-07-11T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Buddy",
+        "url": "https://johnhwhite.github.io/bark-back/images/Buddy.png"
+      }
+    ]
+  },
+  {
+    "id": "5450958c-f019-47bc-96c2-44127368190f",
+    "createdAt": "2023-11-21T12:18:26.138Z",
+    "updatedAt": "2023-12-18T12:18:26.138Z",
+    "name": "Charlie",
+    "bio": "",
+    "gender": "Male",
+    "birthdate": "2023-09-12T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Charlie",
+        "url": "https://johnhwhite.github.io/bark-back/images/Charlie.png"
+      }
+    ]
+  },
+  {
+    "id": "a700e4e0-9875-485d-bff1-aeae469d4d13",
+    "createdAt": "2024-05-06T12:18:26.138Z",
+    "updatedAt": "2024-06-23T12:18:26.138Z",
+    "name": "Daisy",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2024-03-25T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Daisy",
+        "url": "https://johnhwhite.github.io/bark-back/images/Daisy.png"
+      }
+    ]
+  },
+  {
+    "id": "45f6f271-3d31-45db-b949-09421b81e587",
+    "createdAt": "2022-12-13T12:18:26.138Z",
+    "updatedAt": "2023-01-06T12:18:26.138Z",
+    "name": "Duke",
+    "bio": "",
+    "gender": "Male",
+    "birthdate": "2022-10-04T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": false,
+    "images": [
+      {
+        "alt": "Duke",
+        "url": "https://johnhwhite.github.io/bark-back/images/Duke.png"
+      }
+    ]
+  },
+  {
+    "id": "af739cb5-0465-4616-81e4-e91245cd315a",
+    "createdAt": "2023-05-12T12:18:26.138Z",
+    "updatedAt": "2023-06-18T12:18:26.138Z",
+    "name": "Lola",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2023-03-13T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Lola",
+        "url": "https://johnhwhite.github.io/bark-back/images/Lola.png"
+      }
+    ]
+  },
+  {
+    "id": "ae6bd2f5-0a17-44dc-9498-811576c27e9b",
+    "createdAt": "2024-03-09T12:18:26.138Z",
+    "updatedAt": "2024-06-14T12:18:26.138Z",
+    "name": "Lucy",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2024-03-06T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Lucy",
+        "url": "https://johnhwhite.github.io/bark-back/images/Lucy.png"
+      }
+    ]
+  },
+  {
+    "id": "a9815469-ffa3-4417-a103-3c768d7e3ca0",
+    "createdAt": "2024-07-22T12:18:26.138Z",
+    "updatedAt": "2024-10-24T12:18:26.138Z",
+    "name": "Luna",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2024-07-18T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Luna",
+        "url": "https://johnhwhite.github.io/bark-back/images/Luna.png"
+      }
+    ]
+  },
+  {
+    "id": "d6abb324-c5bb-44b3-8ae4-363d4826ad68",
+    "createdAt": "2022-06-15T12:18:26.138Z",
+    "updatedAt": "2022-07-29T12:18:26.138Z",
+    "name": "Maggie",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2022-04-28T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": false,
+    "images": [
+      {
+        "alt": "Maggie",
+        "url": "https://johnhwhite.github.io/bark-back/images/Maggie.png"
+      }
+    ]
+  },
+  {
+    "id": "e71c19bd-75f9-4971-a176-4a49b9593ffd",
+    "createdAt": "2022-03-24T12:18:26.138Z",
+    "updatedAt": "2022-04-26T12:18:26.138Z",
+    "name": "Max",
+    "bio": "",
+    "gender": "Male",
+    "birthdate": "2022-01-22T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Max",
+        "url": "https://johnhwhite.github.io/bark-back/images/Max.png"
+      }
+    ]
+  },
+  {
+    "id": "512f5c36-6e59-419b-ade8-c627a18d3b87",
+    "createdAt": "2025-02-16T12:18:26.138Z",
+    "updatedAt": "2025-02-25T12:18:26.138Z",
+    "name": "Molly",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2024-11-22T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Molly",
+        "url": "https://johnhwhite.github.io/bark-back/images/Molly.png"
+      }
+    ]
+  },
+  {
+    "id": "2fc2d11d-c1c6-4475-83e9-4de699310081",
+    "createdAt": "2022-06-23T12:18:26.138Z",
+    "updatedAt": "2022-08-20T12:18:26.138Z",
+    "name": "Sadie",
+    "bio": "",
+    "gender": "Female",
+    "birthdate": "2022-05-19T12:18:26.138Z",
+    "breed": "Mixed",
+    "needsAttention": true,
+    "images": [
+      {
+        "alt": "Sadie",
+        "url": "https://johnhwhite.github.io/bark-back/images/Sadie.png"
+      }
+    ]
+  }
+]
